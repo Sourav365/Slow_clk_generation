@@ -48,7 +48,7 @@ module slow_clk #(parameter COUNT_MAX=5)(
     end
 endmodule
 ```
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/49667585/230738061-c5955cda-180c-4885-9913-431453442fe3.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/49667585/230738061-c5955cda-180c-4885-9913-431453442fe3.png">
 
 ## Mathod-2
 Separating Combinational and sequential part of code.
@@ -72,4 +72,4 @@ module slow_clk #(parameter COUNT_MAX=5)(
     end
 endmodule
 ```
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/49667585/230738357-ef736814-2631-4152-8a9f-4d9ddc8da1f2.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/49667585/230738357-ef736814-2631-4152-8a9f-4d9ddc8da1f2.png">
